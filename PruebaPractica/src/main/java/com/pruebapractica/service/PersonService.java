@@ -16,14 +16,12 @@ public class PersonService implements IPersonService{
 
 	@Override
 	public int addPerson(Person person) {
-		dao.addPerson(person);
-		return 0;
+		return dao.addPerson(person);
 	}
 
 	@Override
 	public int processPerson(List<Person> persons) {
-		// TODO Auto-generated method stub
-		return 0;
+		return dao.processPerson(persons);
 	}
 
 	@Override
