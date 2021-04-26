@@ -30,7 +30,7 @@
 				</c:forEach>
 			</tbody>
 		</table>
-		<button type="button" onclick="procesar()" class="btn btn-primary">Procesar</button>
+		<button type="button" onclick="guardarProcesados()" class="btn btn-primary">Procesar</button>
 		<script type="text/javascript">
 			
 		</script>
