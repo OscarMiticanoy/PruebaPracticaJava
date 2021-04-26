@@ -31,9 +31,6 @@
 			</tbody>
 		</table>
 		<button type="button" onclick="guardarProcesados()" class="btn btn-primary">Procesar</button>
-		<script type="text/javascript">
-			
-		</script>
 	</div>
 </body>
 </html>
